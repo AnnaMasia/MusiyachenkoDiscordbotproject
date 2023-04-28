@@ -8,7 +8,7 @@
 2. Запуск программы:
 
 - Создайте бота в дискорде, скопируйте его токен.
-- Перейдите по ссылке Git-hub, скачайте оттуда все файлы и переместите в проект Pycharm: https://github.com/AnnaMasia/AnnaMysiyachenkoPygameProject
+- Перейдите по ссылке Git-hub, скачайте оттуда все файлы и переместите в проект Pycharm: https://github.com/AnnaMasia/MusiyachenkoDiscordbotproject
 - Откройте файл 'requirements.txt' и скачайте все предложенные библиотеки.
 - Вставьте токей вашего бота в файл "config.py"
 - Запустите скаченный файл 'main.py'.
