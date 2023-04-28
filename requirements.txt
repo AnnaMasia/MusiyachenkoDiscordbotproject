@@ -1,0 +1,4 @@
+discord  # последняя версия
+discord.ext import commands
+yt_dlp  # последняя версия
+pynacl
