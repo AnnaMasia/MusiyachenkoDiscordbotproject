@@ -11,6 +11,6 @@
 - Перейдите по ссылке Git-hub, скачайте оттуда все файлы и переместите в проект Pycharm: https://github.com/AnnaMasia/MusiyachenkoDiscordbotproject
 - Откройте файл 'requirements.txt' и скачайте все предложенные библиотеки.
 - Скачайте с гугл диска файл "ffmpeg.exe" и поместите в проект Pycharm: https://drive.google.com/drive/folders/1v2hC0ap9WeWpSDYbZiagkDAWvovmq4Jl?usp=share_link
-- Вставьте токей вашего бота в файл "config.py"
+- Вставьте токен вашего бота в файл "config.py"
 - Запустите скаченный файл 'main.py'.
 - Готово!
